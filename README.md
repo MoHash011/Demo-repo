@@ -1,4 +1,4 @@
-# Demo
+# Demo.
 
 hello demo
 
